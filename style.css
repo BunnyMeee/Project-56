@@ -1,0 +1,16 @@
+body{
+text-align: center;
+    background-color: lightpink;
+}
+.image-section{
+   margin-top: 15px; 
+}
+.section-style{
+   display: flex;
+       justify-content: center;
+}
+div{
+  margin-right:25px;
+      margin-left:25px;
+   
+}
